@@ -10,5 +10,5 @@ metadata:
     jira/project-key: RSPT
 spec:
   type: service
-  owner: rhdh-qe rhdh-qe
+  owner: rhdh-qe@redhat.com
   lifecycle: production
